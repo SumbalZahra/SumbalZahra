@@ -1,17 +1,24 @@
 ### Hi I'm Sumbal Zahra 👋              
 
-🔭 I’m currently working on: Advancing research in AI for Disease Detection and Diagnostics, focusing on medical image analysis, predictive analytics, and real-time healthcare applications.      
-🌱 I’m currently learning: Majortechniques in Machine Learning and Deep Learning to make healthcare solutions more reliable and interpretable. Focusing to Develop expertise in Python, TensorFlow, and PyTorch for AI applications.     
-👯 I’m looking to collaborate on: Healthcare AI projects involving medical imaging, personalized medicine, predictive analytics or Innovative solutions using AI for real-time applications such as surgical assistance, ICU monitoring, and workflow optimization in hospitals.      
-🤔 I’m looking for help with: Exploring PhD opportunities and funding in AI for Healthcare.     
-💬 Ask me about: Transitioning from Biomedical Engineering to AI.    
-    
+🔭 I’m currently a student of: Associate Degree in Computer Science at Virtual University of Pakistan.    
+
+🌱 I’m currently learning: Key techniques in Machine Learning and Deep Learning to make healthcare solutions more reliable and interpretable. I’m focusing on developing expertise in Python, TensorFlow, and PyTorch for AI applications.    
+
+👯 I’m looking to collaborate on: Healthcare AI projects, including medical imaging, personalized medicine, and predictive analytics. I’m also interested in innovative AI solutions for real-time applications, such as surgical assistance, ICU monitoring, and, in the long term, workflow optimization in hospitals.    
+
+🤔 I’m looking for help with: Exploring PhD opportunities and funding in AI for Healthcare.   
+
+💬 Ask me about: Why having interdisciplinary knowledge from Biomedical Engineering, Computer Science, and AI is so essential, especially for developing countries like Pakistan. Additionally, I love diving into controversial yet thought-provoking topics that encourage meaningful discussions.   
+
 📫 How to reach me:    
-Email: [sumbalzahraameen@gmail.com]                     
-LinkedIn: [https://www.linkedin.com/in/sumbal-zahra-ameen-23ab78145/]              
-Medium Blog: [https://medium.com/@sumbalzahraameen]                 
-😄 Pronouns: She/Her                             
-⚡ Fun fact: Beyond the realm of technology, I have a deep passion for exploring diverse languages and cultures, immersing myself in their rich traditions and histories. I also enjoy engaging in thought-provoking conversations that spark creativity. While sports like badminton keep me energized, I find joy in singing—though long-term throat issues limit me, I still love reciting a few lines of Naat to feel more alive everyday😊.       
+
+Email: [sumbalzahraameen@gmail.com]   
+LinkedIn: [https://www.linkedin.com/in/sumbal-zahra-ameen-23ab78145/]    
+Medium Blog: [https://medium.com/@sumbalzahraameen]    
+
+😄 Pronouns: She/Her    
+
+⚡ Fun fact: Beyond the world of technology, I have a deep passion for exploring languages and cultures, immersing myself in their rich traditions and histories. I love engaging in thought-provoking conversations, especially with aged individuals and patients whose wisdom and life experiences deeply inspire me. While badminton keeps me active, I also find joy in singing—despite long-term throat issues, reciting a few lines of Naat always makes me feel alive and connected. 😊         
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumbalzahra&show_icons=true&theme=transparent)     
 
