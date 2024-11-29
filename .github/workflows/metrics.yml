@@ -18,5 +18,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
-          username: SumbalZahra
+          username: sumbalzahra
           readme: true
