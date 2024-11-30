@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sumbal Zahra 👋</h1>           
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=30&center=true&vCenter=true&width=700&lines=%F0%9F%8C%9F+Mesmerized+by+Power+of+Tech+for+Healthcare;🚀+Exploring+ML%2C+DL%2C+and+AI;👩‍💻+Student+Developer;🧩+Occasional+Competitive+Programmer;📚+Life-long+Learner;✈️+Waiting+to+Travel+the+World&duration=5000&pause=2000" alt="dynamic-typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFF&size=30&center=true&vCenter=true&width=700&lines=%F0%9F%8C%9F+Mesmerized+by+Power+of+Tech+for+Healthcare;🚀+Exploring+ML%2C+DL%2C+and+AI;👩‍💻+Student+Developer;🧩+Occasional+Competitive+Programmer;📚+Life-long+Learner;✈️+Waiting+to+Travel+the+World&duration=5000&pause=2000" alt="dynamic-typing-svg" />
 </p>
 
 🔭 I’m currently a student of: **Associate Degree in Computer Science** at Virtual University of Pakistan.  
@@ -15,7 +15,7 @@
 
 📫 The best way to reach me: **Email**: [sumbalzahraameen@gmail.com]       
 
-😄 Pronouns: She/Her                     
+😄 Pronouns: Prefer Zahra                    
 
 ⚡ Hobbies:Beyond the world of technology, I have a deep passion for exploring languages and cultures, immersing myself in their rich traditions and histories. I love engaging in thought-provoking conversations, especially with aged individuals and patients whose wisdom and life experiences deeply inspire me. While badminton keeps me active, I also find joy in singing—despite long-term throat issues, reciting a few lines of Naat always makes me feel alive and connected.   
 
