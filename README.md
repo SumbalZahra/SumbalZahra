@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFF&size=30&center=true&vCenter=true&width=700&lines=%F0%9F%8C%9F+Mesmerized+by+Power+of+Tech+for+Healthcare;🚀+Exploring+ML%2C+DL%2C+and+AI;👩‍💻+Student+Developer;🧩+Occasional+Competitive+Programmer;📚+Life-long+Learner;✈️+Waiting+to+Travel+the+World&duration=5000&pause=2000" alt="dynamic-typing-svg" />
 </p>
 
-🔭 I’m currently a student of: **Associate Degree in Computer Science** at Virtual University of Pakistan.  
-
 🌱 I’m currently learning: Key techniques in Machine Learning and Deep Learning to make healthcare solutions more reliable and interpretable. And Developing expertise in **Python**, **TensorFlow**, and **PyTorch** for AI applications.           
 
 👯 I’m looking to collaborate on: Healthcare AI projects, including Medical imaging, Personalized medicine, Predictive analytics and Real-time healthcare solutions like surgical assistance and ICU monitoring.                           
