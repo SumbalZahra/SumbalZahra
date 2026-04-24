@@ -7,9 +7,9 @@
 
 👯 I’m looking to collaborate on: Healthcare AI projects, including Medical imaging, Personalized medicine, Predictive analytics and Real-time healthcare solutions like surgical assistance and ICU monitoring.                           
 
-🤔 I’m looking for help with: Exploring **PhD opportunities and funding** in **AI for Healthcare**.    
+🤔 I’m looking for help with: Exploring **PhD opportunities** in **AI for Healthcare**.    
 
-💬 Ask me about: Why having interdisciplinary knowledge from **Biomedical Engineering**, **Computer Science**, and **AI** is essential, especially for developing countries like Pakistan, South Africa, India which have under-resourced and under-served markets of healthcare. Additionally, I love diving into controversial yet thought-provoking topics that encourage meaningful discussions.   
+💬 Ask me about: Why having interdisciplinary knowledge from **Biomedical Engineering**, **Computer Science**, and **AI** is essential, especially for developing countries like Pakistan, South Africa, India which have under-resourced and under-served markets of healthcare. Additionally, I love diving into thought-provoking topics that encourage meaningful discussions.   
 
 📫 The best way to reach me: **Email**: [sumbalzahraameen@gmail.com]       
 
@@ -30,16 +30,7 @@
 📊 GitHub Stats:                            
 
 ![](https://github-readme-stats.vercel.app/api?username=sumbalzahra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)                  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumbalzahra&theme=dark&hide_border=false)             
-
-📝 My Blogs:      
-
-<a target="_blank" href="https://sumbalzahraameen.medium.com/article-1-link">   
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sumbalzahraameen/0" alt="Recent Article 0" />         
-</a>           
-<a target="_blank" href="https://sumbalzahraameen.medium.com/article-2-link">                       
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sumbalzahraameen/1" alt="Recent Article 1" />                  
-</a>                        
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumbalzahra&theme=dark&hide_border=false)                                    
 
 💬 Programmer's Quote:          
 
